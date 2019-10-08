@@ -63,7 +63,7 @@
       "metadata": {
         "description": "The size of the AD VMs Created"
       },
-      "defaultValue": "Standard_D1"
+      "defaultValue": "Standard_D1_v2"
     },
     "sqlVMSize": {
       "type": "string",
@@ -96,7 +96,7 @@
       "metadata": {
         "description": "The size of the SQL VMs Created"
       },
-      "defaultValue": "Standard_DS4"
+      "defaultValue": "Standard_DS4_v2"
     },
     "witnessVMSize": {
       "type": "string",
@@ -129,7 +129,7 @@
       "metadata": {
         "description": "The size of the Witness VM Created"
       },
-      "defaultValue": "Standard_DS1"
+      "defaultValue": "Standard_DS1_v2"
     },
     "domainName": {
       "type": "string",
