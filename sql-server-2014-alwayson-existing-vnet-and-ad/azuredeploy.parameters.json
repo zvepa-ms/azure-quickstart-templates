@@ -6,20 +6,23 @@
       "value": "GEN-UNIQUE-8"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "contoso.local"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "zadmin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "P@ssword1973"
     },
     "sqlServerServiceAccountUserName": {
       "value": "sqlservice"
     },
     "sqlServerServiceAccountPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "P@ssword1973"
     },
+    "existingVirtualNetworkId": {
+      "value": "/subscriptions/7ca0d9f6-8291-429f-94bd-769fbf80858e/resourceGroups/sqlalwaysonDemo/providers/Microsoft.Network/virtualNetworks/sqldemozp-sa"
+    },    
     "existingSqlSubnetName": {
       "value": "default"
     }
