@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "namePrefix": {
-      "value": "GEN-UNIQUE-8"
+      "value": "zsql"
     },
     "existingDomainName": {
       "value": "contoso.local"
