@@ -153,8 +153,8 @@
           "sqlServerServiceAccountPassword": {
             "value": "[parameters('sqlServerServiceAccountPassword')]"
           },
-          "storageAccountType": {
-            "value": "Standard_LRS"
+          "diskType": {
+            "value": "[parameters('storageAccountType')]"
           },
           "nicSubnetUri": {
             "value": "[variables('sqlSubnetRef')]"

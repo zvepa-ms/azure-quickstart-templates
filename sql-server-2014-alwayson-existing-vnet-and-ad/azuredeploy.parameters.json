@@ -8,6 +8,9 @@
     "existingDomainName": {
       "value": "contoso.local"
     },
+    "existingAdPDCVMName": {
+      "value": "ad-primary-dc"
+    },    
     "adminUsername": {
       "value": "zadmin"
     },
